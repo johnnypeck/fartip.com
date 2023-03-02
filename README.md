@@ -11,8 +11,10 @@ FARTIP
 <li>Privacy & Security</li>
 </ul>
 
-Inspired by Microsoft's Six Principles of Responsible AI
+These are Microsoft's Six Principles of Responsible AI but they had them in the wrong order. I fixed it.
 
 I wanted an easier thing to remember than FRPITA in the artificial intelligence learning documentation.
 
 So, FARTIP. Pretty surprised the domain was available. Stunned, really.
+
+Your welcome.
