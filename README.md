@@ -14,5 +14,3 @@ These are Microsoft’s Six Principles of Responsible Artificial Intelligence bu
 I wanted an easier thing to remember than FRPITA whilst studying their machine learning and Azure documentation.
 
 So, FARTIP. A subjectively better FRPITA. Surprised the domain was available. Stunned, really.
-
-You’re welcome.
