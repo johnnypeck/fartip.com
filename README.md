@@ -15,6 +15,6 @@ I wanted an easier thing to remember than FRPITA whilst studying their machine l
 
 So, FARTIP. A subjectively better FRPITA. Surprised the domain was available. Stunned, really.
 
-It expresses that what we are doing right now in AI and machine learning has far reaching consequences. We are sharpening a spear. The far tip.
+It expresses what we are doing right now in AI and machine learning has far reaching consequences. We are sharpening a spear. The far tip.
 
-We should proceed with that in mind.
+We should proceed with that in mind. We can do this.
